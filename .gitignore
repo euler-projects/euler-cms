@@ -1,9 +1,10 @@
+.DS_Store
 target/
-pom.xml.tag
-pom.xml.releaseBackup
+.project
+.classpath
+.settings/
+config.properties
+node_modules
 pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
+.idea/
+*.iml
